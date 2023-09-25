@@ -1,4 +1,5 @@
 # hospital-management
+Ayush Kumar Singh(1RN20IS031)-ayushh0807
 
 
 
@@ -12,4 +13,4 @@ https://gleeful-treacle-b1fad9.netlify.app/
 
 
 #collaborator 
-Palak Srivastava-palak0506
+Palak Srivastava(1RN20IS101)-palak0506
